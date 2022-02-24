@@ -1,0 +1,323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Perfect catalogue of all the lords treasurers that have been in England to this present year, 1679 with particular observations on Thomas Earl of Danby.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54327</idno>
+            <idno type="STC">Wing P1474</idno>
+            <idno type="STC">ESTC R361</idno>
+            <idno type="EEBO-CITATION">12264645</idno>
+            <idno type="OCLC">ocm 12264645</idno>
+            <idno type="VID">57970</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54327)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57970)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Perfect catalogue of all the lords treasurers that have been in England to this present year, 1679 with particular observations on Thomas Earl of Danby.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Lists the 144 lords treasurers, from 946 to 1679.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712.</term>
+               <term>Great Britain. --  Treasury --  Directories.</term>
+               <term>Great Britain. --  Treasury --  Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_treasurers">
+            <pb n="1" facs="tcp:57970:1"/>
+            <head>A PERFECT CATALOGUE Of all the Lords Treaſurers That have been in <hi>England</hi> to this preſent Year, 1679. With Particular Obſervations on <hi>THOMAS EARL OF DANBY.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <l>Beſt Wines to drooping Souls, beſt Cordials prove,</l>
+                  <l>But once Corrupt, who can ſuch Poyſons love?</l>
+               </q>
+            </epigraph>
+            <p n="1">1. THE firſt who ever enjoyed this Place, was <hi>Dunſtan</hi> Arch-biſhop of <hi>Canterbury,</hi> he was made Trea<g ref="char:EOLhyphen"/>ſurer to King <hi>Eldred, Anno Dom.</hi> 946. and was after Canoniz'd for a Saint; and this is the St. <hi>Dunſtan,</hi> who, the Goldſmiths ſay, took the Devil by the Noſe with a pair of Tongs.</p>
+            <p n="2">2. <hi>Hugolme;</hi> he was made Treaſurer and Chamberlain to <hi>Edward</hi> the Confeſſor.</p>
+            <p n="3">3. <hi>Odo,</hi> half Brother to the Conquerour; he was Earl of <hi>Kent,</hi> Biſhop of <hi>Baieux,</hi> Chief Juſtice of <hi>England,</hi> and treaſurer in the dayes of the Conquerour.</p>
+            <p n="4">4. <hi>Godfrey Clinton,</hi> Treaſurer and Chamberlain to <hi>Henry</hi> the Firſt, 1112. he was afterward accuſed of Treaſon.</p>
+            <p n="5">5. <hi>Ranulph</hi> Biſhop of <hi>Durham</hi> was afterward made Treaſurer to the ſaid King.</p>
+            <p n="6">6. <hi>Roger</hi> Biſhop of <hi>Salisbury,</hi> Treaſurer and Chancellour to <hi>Henry</hi> the Firſt, and died in the 4th of King <hi>Stephen,</hi> 1139.</p>
+            <p n="7">7. <hi>Nigellus</hi> Biſhop of <hi>Ely</hi> was alſo Treaſurer to <hi>Henry</hi> the Firſt; he was a greater States-man than Church<g ref="char:EOLhyphen"/>man; and, as <hi>Trivet</hi> ſaith, died <hi>Anno</hi> 1169.</p>
+            <p n="8">8. <hi>Richard</hi> of <hi>Ely,</hi> the Son of the ſaid <hi>Nigellus,</hi> was made Treaſurer to <hi>Henry</hi> the Second, by the pur<g ref="char:EOLhyphen"/>chaſe of his Father Purſe; who gave the Sum of 400 Marks to the King for the Place for his Son.</p>
+            <p n="9">9. <hi>William</hi> of <hi>Ely,</hi> being a Kinſman of the aforeſaid <hi>Richard</hi> of <hi>Ely,</hi> was alſo made Treaſurer to <hi>Richard</hi> the Firſt, and alſo to King <hi>John.</hi>
+            </p>
+            <p n="10">10. The next was a Dean of <hi>Pauls</hi> that enjoyed this Place, (as appears by <hi>Matth. Parker</hi>) who alſo ſpeaks of his miſerable End. And, I ſuppoſe this to be that Dean, who is recorded to have made this <hi>Will: Lego om<g ref="char:EOLhyphen"/>nia bona mea Domino Regi, Corpus Sepulturae, Animam Diabolo.</hi> I give all my Goods to the King, my Body to be buried, and, my Soul to the Devil: <hi>quo dicto expiravit</hi> (ſaith <hi>Huntley,</hi> in his Epiſtle to King <hi>Charles,</hi> pag. 69. of the Prelates Uſurpation.) He was made Treaſurer in the ſeventh year of <hi>Richard</hi> the Firſt, 1195.</p>
+            <p n="11">11. <hi>Walter Gray</hi> Biſhop of <hi>Worceſter,</hi> was made Treaſurer in the eleventh year of King <hi>John.</hi>
+            </p>
+            <p n="12">12. <hi>Geffery</hi> Arch-deacon of <hi>Narwich,</hi> was made Treaſurer to King <hi>John,</hi> and forſook his Maſter when he was Excommunicated by the Pope.</p>
+            <p n="13">13. <hi>John Ruthall</hi> next enjoyed this Office, <hi>Anno</hi> 1219. in the third year of <hi>Henry</hi> the Third.</p>
+            <p n="14">14. <hi>Euſtachius de Faulconbridg,</hi> Chancellor of the Exchequer, was made Treaſurer, and afterward Biſhop of <hi>London,</hi> in the 5th of <hi>Hen.</hi> 3.1221.</p>
+            <p n="15">15. <hi>Johannes de Fontibus,</hi> or <hi>Defontnes,</hi> Biſhop of <hi>Ely,</hi> was made Treaſurer in the 9th of <hi>Henr.</hi> 3.</p>
+            <p n="16">16. <hi>Wulter Malclark,</hi> or <hi>Lack Latin,</hi> was Biſhop of <hi>Carlile,</hi> and Treaſurer of <hi>England,</hi> in the dayes of <hi>Henr.</hi> 3.</p>
+            <p n="17">17. <hi>Ranulph Briton,</hi> is mentioned next in Order, but I ſuppoſe it ſhould have been <hi>Hubert de Burgo.</hi>
+            </p>
+            <p n="18">18. <hi>Peter de Orial,</hi> he was made Treaſurer in the ſeventeenth year of <hi>Henry</hi> the Third, 1233. and after<g ref="char:EOLhyphen"/>ward Guardian of all the Foreſts, Eſcheats, and Cinque Ports.</p>
+            <p n="19">19. <hi>Hugh Pateſhall,</hi> Treaſurer of the Exchequer, and afterward to the King, in the eighteenth year of <hi>Henry</hi> the Third, 1234. and after that, Chief Juſtice of all <hi>England.</hi>
+            </p>
+            <p n="20">20, <hi>William Haverhull,</hi> a Canon of St. <hi>Pauls,</hi> was made Treaſurer to the King, 1240. in the twenty fourth of <hi>Henry</hi> the Third.</p>
+            <p n="21">21. <hi>Richard de Barking,</hi> Abbot of <hi>Weſtminſter,</hi> was Chief Baron of the Exchequer and Treaſurer of <hi>England</hi> after him.</p>
+            <p n="22">22. <hi>Philip Lovel</hi> did next obtain this Honour, <hi>Anno</hi> 1251.</p>
+            <p n="23">23. <hi>John Crockhall</hi> Arch-deacon of <hi>Bedford,</hi> was Treaſurer from the 42, to the 44th year of <hi>Henry</hi> the Third, at which time the King gave him a Prebendary, and ſo he was removed.</p>
+            <p n="24">24. <hi>John,</hi> Abbot of <hi>Peterborough,</hi> was by the Barons made Treaſurer, and by them alſo were the other Officers of the King Elected and Confirmed, 1260.</p>
+            <p n="25">25. <hi>Nicholas</hi> Arch-deacon of <hi>Ely,</hi> was made Treaſurer in the 47 of <hi>Hen.</hi> 3.1263.</p>
+            <p n="26">26. <hi>Thomas Wi<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>undham</hi> was by the Barons firſt made Treaſurer of the Exchequer, and afterwards of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in the fiftieth year of <hi>Hen.</hi> 3.1266.</p>
+            <p n="27">27. <hi>John Chiſul,</hi> Dean of <hi>Pauls,</hi> afterward Biſhop of <hi>London,</hi> and ſometime Chancellour, was made Treaſurer in the fifty fourth of <hi>Hen.</hi> 3.1269. About this time alſo there is mention made of one <hi>Philip de Ely.</hi>
+            </p>
+            <p n="28">28. <hi>Joſeph de Chancey,</hi> was made Treaſurer in the ſecond year of <hi>Edward</hi> the Firſt, 1274.</p>
+            <p n="29">29. <hi>William,</hi> or <hi>Walter Gifford,</hi> Biſhop of <hi>Bath</hi> and <hi>Wells,</hi> was the next Treaſurer to <hi>Edw.</hi> the Firſt.</p>
+            <p n="30">30. <hi>Robert Burnell,</hi> Biſhop of <hi>Bath</hi> and <hi>Wells,</hi> and Chancellour of <hi>England,</hi> ſucceeded the ſaid <hi>Gifford</hi> in the Place of Treaſurer.</p>
+            <p n="31">31. <hi>Joſeph de Chancey</hi> was the ſecond time made Treaſurer in the ſixth year of <hi>Edw.</hi> 1278. He was alſo Prior of St. <hi>Johns</hi> of <hi>Jeruſalem,</hi> that is, of the Order of Knights ſo called, whoſe Reſidence was chiefly at <hi>Rebodes.</hi>
+            </p>
+            <p n="32">
+               <pb n="2" facs="tcp:57970:2"/> 32. <hi>Thomas Beck</hi> was made Treaſurer in the 7th of <hi>Edw.</hi> the Firſt, he being then Arch-deacon of <hi>Dorcheſter.</hi>
+            </p>
+            <p n="33">33. <hi>Richard de Ware,</hi> Abbot of <hi>Weſtminſter,</hi> was made Treaſurer in the eighth year of <hi>Edw.</hi> 1.1280. This man going for his Conſecration to <hi>Rome,</hi> provided and brought Stones and Workmen from thence, to make that curious Pavement at <hi>Weſtminſter</hi> before the Communion-Table, and alſo the Shrine of <hi>Edward</hi> the Confeſſor.</p>
+            <p n="34">34. <hi>Walter,</hi> or <hi>William de Wenlock,</hi> Abbot of <hi>Weſtminſter,</hi> was made Treaſurer after <hi>Richard de Ware.</hi>
+            </p>
+            <p n="35">35. The Biſhop of <hi>Lichfield</hi> and <hi>Coventry</hi> was made Treaſurer in the 14th of <hi>Edward</hi> the Firſt, 1286. and ſucceeded the ſame year by <hi>John Kerby.</hi>
+            </p>
+            <p n="36">36. <hi>John Kerby</hi> Dean of <hi>Winburn,</hi> and Arch-deacon of <hi>Coventrey,</hi> was made Treaſurer in the 14th of <hi>Edw.</hi> 1.</p>
+            <p n="37">37. <hi>William de Marchia</hi> was made Treaſurer in the 18th of <hi>Edw.</hi> 1.1290. and held the Place five years; after whoſe time the Place was void: the Barons of the Exchequer ſupplying the Place, till they choſe</p>
+            <p n="38">38. <hi>Walter Langhſtone;</hi> who enjoyed the Place all the while the King lived, and was afterward removed and impriſoned by <hi>Edward</hi> the Second.</p>
+            <p n="39">39. <hi>Walter Reignolds,</hi> School-maſter to <hi>Edward</hi> the Second, Biſhop of <hi>Worceſter,</hi> and Chancellour of <hi>England,</hi> made Treaſurer in the firſt of <hi>Edw.</hi> the Second.</p>
+            <p n="40">40. <hi>John de Sandal,</hi> Chancellour, was made alſo Treaſurer, but he kept his Place but a year.</p>
+            <p n="41">41. <hi>Walter Norwich</hi> Knight, was made Treaſurer in the fifth of <hi>Edward</hi> the Second. 1312.</p>
+            <p n="42">42. <hi>John de Sandal</hi> was the ſecond time made Treaſurer in the ſixth year of <hi>Edward</hi> the Second.</p>
+            <p n="43">43. <hi>Walter Norwich</hi> Knight, was the ſecond time made Treaſurer.</p>
+            <p n="44">44. <hi>John Drokensford,</hi> Biſhop of <hi>Bath</hi> and <hi>Wells,</hi> did next enjoy the Place of Treaſurer, who was ſucceeded by</p>
+            <p n="45">45. <hi>John Hotham,</hi> in the eleventh of <hi>Edw.</hi> the Second, 1317.</p>
+            <p n="46">46. <hi>William de Walwaine</hi> was made Treaſurer in the twelfth of <hi>Edw.</hi> the Second, and was for Miſdemea<g ref="char:EOLhyphen"/>nours removed by the Parliament at <hi>York.</hi>
+            </p>
+            <p n="47">47. <hi>John Stratford</hi> Biſhop of <hi>Wincheſter</hi> ſucceeded in the ſame Place the ſame year: — This Treaſurer found in ſome by-place in the Treaſury, the Sum of twenty nine pound, ſeventeen ſhillings, and eight pence; for the ſuppoſed Expence of which, the laſt Treaſurer was turn'd out of his Place. — <hi>Fiat Juſtitia</hi> — this falls ſhort of two or three Millions.</p>
+            <p n="48">48. <hi>Walter Stapleton,</hi> Biſhop of <hi>Exeter,</hi> was made Treaſurer in the 13th year of <hi>Edw.</hi> the Second, 1319.</p>
+            <p n="49">49. Sir <hi>Walter Norwich,</hi> the third time made Lord Treaſurer in the 15th year of <hi>Edward</hi> the Second, though <hi>Walſingham</hi> ſayes otherwiſe.</p>
+            <p n="50">50. <hi>Roger Northborow Scutifer,</hi> made Treaſurer in the 16th of <hi>Ed.</hi> 2.1322.</p>
+            <p n="51">51. <hi>Walter Stapleton,</hi> Biſhop of <hi>Exeter,</hi> the ſecond time made Treaſurer, in the 18th of <hi>Ed.</hi> 2. and was be<g ref="char:EOLhyphen"/>headed by Queen <hi>Iſabel,</hi> when ſhe came into <hi>England</hi> to Depoſe her Husband.</p>
+            <p n="52">52. <hi>William Melton,</hi> Arch-biſhop of <hi>York,</hi> was made Treaſurer in the 18th of <hi>Ed.</hi> 2. and kept his Place till the Depoſition of his Maſter.</p>
+            <p n="53">53. <hi>John Strafford,</hi> Biſhop of <hi>Wincheſter,</hi> was the ſecond time made Treaſurer, in the twentieth year of the Depoſed King <hi>Edward.</hi>
+            </p>
+            <p n="54">54. <hi>Adam Tarleton,</hi> or <hi>de Orleton,</hi> Biſhop of <hi>Hereford,</hi> was made Treaſurer alſo in the firſt year of King <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the Third.</p>
+            <p n="55">55. <hi>Henry Burwaſh,</hi> Biſhop of <hi>Lincoln,</hi> was made Lord Treaſurer in the firſt year of <hi>Ed.</hi> 3.1327.</p>
+            <p n="56">56. <hi>Thomas</hi> Biſhop of <hi>Hereford</hi> did next poſſeſs this Place in the third year of <hi>Ed.</hi> the third.</p>
+            <p n="57">57. <hi>Robert Woodhouſe</hi> was made Lord Treaſurer in the fourth of King <hi>Edward.</hi>
+            </p>
+            <p n="58">58. <hi>William</hi> Arch-biſhop of <hi>York</hi> was again made Treaſurer in the fifth year of <hi>Ed.</hi> the third.</p>
+            <p n="59">59. <hi>William</hi> Biſhop of <hi>Norwich</hi> was alſo made Treaſurer in the fifth of <hi>Edward</hi> the third, in <hi>Michaelmas</hi> Term. Note, that there were three Lord Treaſurers ſucceſſively in this Term.</p>
+            <p n="60">60. <hi>Robert le Ailſtone</hi> made Treaſurer in the 7th year of <hi>Ed.</hi> the third, 1333.</p>
+            <p n="61">61. <hi>Henry Burwaſh</hi> was again made Treaſurer in the tenth of <hi>Ed.</hi> the third 1336.</p>
+            <p n="62">62. <hi>Richard de Bury</hi> Biſhop of <hi>Durham</hi> was made, Treaſurer in the 11th of <hi>Ed.</hi> the third.</p>
+            <p n="63">63. <hi>William de la Zouch</hi> was preferred to this Place in the 12th year of <hi>Ed.</hi> the third, 1338. He was Biſhop of <hi>York,</hi> and, in the Kings abſence, Vicegerent of the North; and alſo took <hi>David Bruce</hi> King of <hi>Scots,</hi> who then Invaded <hi>England,</hi> 1346.</p>
+            <p n="64">64. <hi>Richard Sadington</hi> was made Treaſurer in the 14th year of <hi>Ed.</hi> the third.</p>
+            <p n="65">65. <hi>Robert Northborow,</hi> Treaſurer alſo in the 14th year of <hi>Ed.</hi> the third.</p>
+            <p n="66">66. The Biſhop of <hi>Cheſter</hi> made Treaſurer in the 15th year, and ſoon loſt his Place.</p>
+            <p n="67">67. <hi>Robert Perning</hi> was alſo Treaſurer in the 15th year.</p>
+            <p n="68">68. <hi>Roger Northborow</hi> Biſhop of <hi>Coventrey,</hi> did poſſeſs this Place in the 16th year of King <hi>Edward.</hi>
+            </p>
+            <p n="69">69. <hi>William de Cuſans,</hi> made Treaſurer in the 17th year of King <hi>Ed.</hi> 3. in which place he continued but the ſpace of <hi>Michaelmas</hi> Term.</p>
+            <p n="70">70. <hi>William de Edington</hi> Biſhop of <hi>Wincheſter,</hi> made Treaſurer in the 19th Year of <hi>Ed.</hi> 3.1345. which Place he held twelve Years.</p>
+            <p n="71">71. <hi>John</hi> Biſhop of <hi>Rocheſter,</hi> made Treaſurer in the 32 year of <hi>Ed.</hi> 3.1358.</p>
+            <p n="72">72. <hi>Simon Langham</hi> of the Priory of <hi>Weſtminſter,</hi> was made Treaſurer in the 35 year of <hi>Ed.</hi> 3, and he was afterward a Cardinal.</p>
+            <p n="73">73. <hi>John Barret,</hi> made Biſhop of <hi>Worceſter,</hi> and after Treaſurer of <hi>England</hi> in the 36 year of <hi>Ed.</hi> 3.1362.</p>
+            <p n="74">74. <hi>Thomas de Brandington</hi> was made Biſhop of <hi>Exon,</hi> and afterward Treaſurer in the 43 of <hi>Ed.</hi> 3. and continued in his Place till the 45 of <hi>Ed.</hi> 3.1371. and was then removed by the Parliament, and at the ſame time it was enacted, that Clergy-men ſhould no more ſerve in the Place of Treaſurer, Chancellor, or Clerk of the Privy Seal, but ſecular men only.</p>
+            <p n="75">75. Sir <hi>Richard Scroop,</hi> was made Treaſurer in the 46 of <hi>Ed.</hi> the 3. A man of great Worth and one who hated to cheat a Kingdom.</p>
+            <p n="76">76. Sir <hi>Robert Aſhton,</hi> Conſtable of <hi>Dover</hi> Caſtle, and Warden of the Cinque Ports was made Treaſurer in the 50th year of <hi>Ed.</hi> 3.</p>
+            <p n="77">77. <hi>Henry Wake</hi> of <hi>Wakefield</hi> being before made Biſhop of <hi>Worceſter</hi> was made Treaſurer in the 51 year of <hi>Edward</hi> 3. which was the laſt year of his Reign.</p>
+            <p n="78">
+               <pb n="3" facs="tcp:57970:2"/> 78. <hi>Thomas de Brantington</hi> was again made Treaſurer in the firſt year of <hi>Richard</hi> the ſecond, 1378.</p>
+            <p n="79">79. <hi>Richard</hi> Earl of <hi>Arundel</hi> and <hi>Surrey</hi> made Lord Treaſurer in the ſecond year of <hi>Richard</hi> the ſecond, and held it one whole year, and then gave place to.</p>
+            <p n="80">80. <hi>Thomas de Brandington,</hi> who was the third time made Lord Treaſurer in the third year of <hi>Richard</hi> the 2.</p>
+            <p n="81">81. <hi>Robert Hales</hi> (Chief Prior of the Knights of St. <hi>John</hi> of <hi>Jeruſalem</hi> in <hi>England</hi>) was made Lord Treaſurer in the fourth of <hi>Richard</hi> the Second.</p>
+            <p n="82">82. <hi>Hugh Segrane</hi> Knight, whom <hi>Walſingham</hi> calleth <hi>Regis Seneſcallum,</hi> the Kings Steward, was made Trea<g ref="char:EOLhyphen"/>ſurer in the fifth year of <hi>Richard</hi> 2.</p>
+            <p n="83">83. <hi>John Fortham</hi> Cannon, being Secretary to the King, was made Biſhop of <hi>Durham,</hi> and in the ninth of <hi>Richard</hi> the ſecond, he was made Treaſurer alſo 1385.</p>
+            <p n="84">84. <hi>John Gilbert</hi> Biſhop of <hi>Hereford</hi> was by the Parliament made Treaſurer in the tenth of <hi>Rich.</hi> 2.1386.</p>
+            <p n="85">85. <hi>Thomas de Brantington</hi> was the fourth time made Treaſurer of <hi>England.</hi>
+            </p>
+            <p n="86">86. <hi>John Gilbert</hi> Biſhop of St. <hi>David's</hi> in <hi>Wales,</hi> was made Treaſurer in the 13 Year of <hi>Richard</hi> 2.</p>
+            <p n="87">87. <hi>John Waltham</hi> Biſhop of <hi>Salisbury,</hi> Maſters of the Rolls and Keeper of the Privy-Seal, was made Trea<g ref="char:EOLhyphen"/>ſurer in the 15 year of <hi>Rich.</hi> 2.</p>
+            <p n="88">88. <hi>Roger Walden</hi> was the next who ſucceeded in that Place, in the 18 year of <hi>Richard</hi> 2.1365.</p>
+            <p n="89">89. The Biſhop of St. <hi>David's</hi> in <hi>Wales</hi> was choſe Treaſurer in the 22 year of <hi>Rich.</hi> 2.</p>
+            <p n="90">90. <hi>William Scroop</hi> Knight and Vice-Chamberlain was made Treaſurer alſo in the 22 of <hi>Richard</hi> 2. This man bought of the Earl of <hi>Salisbury</hi> the Iſle of <hi>Man,</hi> with the Crown thereof, he was alſo one of thoſe to whom this King let the Kingdom out to farm, yet after all he was beheaded at <hi>Briſtol,</hi> in the 23 year of <hi>Rich.</hi> 2.</p>
+            <p n="91">91. Sir <hi>John Northbury</hi> made Lord Treaſurer in the firſt year of <hi>Henry</hi> the fourth 1399.</p>
+            <p n="92">92. <hi>Henry Bowet</hi> Biſhop of <hi>York,</hi> was made Treaſurer in the fourth of <hi>Henry</hi> 4.1403.</p>
+            <p n="93">93. <hi>William</hi> Lord <hi>Roſs,</hi> enjoyed the Place of Treaſurer in the fifth year of <hi>Henry</hi> the fourth.</p>
+            <p n="94">94. <hi>Thomas</hi> Lord <hi>Furnival</hi> had the Place and Office of Lord Treaſurer in the 6th year of <hi>Hen.</hi> 4. To this Lord <hi>Furnival</hi> did that Houſe in <hi>Holborn</hi> belong, as their Common dwelling-houſe, which is now called <hi>Furnivals-Inn.</hi>
+            </p>
+            <p n="95">95. <hi>Nicholas Bubwith</hi> was made Lord Treaſurer in the 8th year of <hi>Hen.</hi> 4.</p>
+            <p n="96">96. Sir <hi>Richard Scroop,</hi> Lord of <hi>Bolton,</hi> made Treaſurer in the 9th year of <hi>Hen.</hi> 4.</p>
+            <p n="97">97. Sir <hi>John Tiptoft</hi> did poſſeſs this Place of Treaſurer in <hi>Michaelmas</hi> Term, in the 10th year of <hi>Hen.</hi> 4.1408.</p>
+            <p n="98">98. <hi>Henry</hi> Lord <hi>Scroop</hi> of <hi>Maſham</hi> and <hi>Flaxfleet,</hi> was made Treaſurer in the 11th of <hi>Hen.</hi> 4.1410. He kept his Place ſo long as the King lived, and in the third year of <hi>Henry</hi> the Fifth he was beheaded at <hi>Southampton.</hi>
+            </p>
+            <p n="99">99. <hi>Thomas Fitzallen</hi> Earl of <hi>Arundel</hi> and <hi>Surrey</hi> was made Treaſurer in the firſt year of <hi>Hen.</hi> 5.</p>
+            <p n="100">100. Sir <hi>Roger Leche</hi> was made Treaſurer in the 4th year of <hi>Hen.</hi> 5. and was with the King at the Siege of <hi>Roan.</hi>
+            </p>
+            <p n="101">101. <hi>Henry</hi> Lord <hi>Fitz-Hugh</hi> was preferred to the Place of Treaſurer in the 5th of <hi>Hen.</hi> 5. and kept his Place during the Kings Life.</p>
+            <p n="102">102. <hi>John Stafford,</hi> Clerk, made Lord Treaſurer in the firſt of <hi>Hen.</hi> 6.1422.</p>
+            <p n="103">103. <hi>Walter</hi> Lord <hi>Hungerford,</hi> Knight of the Garter, and Son of Sir <hi>Thomas Hungerford,</hi> was made Lord Trea<g ref="char:EOLhyphen"/>ſurer in the 4th of <hi>Hen.</hi> 6.</p>
+            <p n="104">104. <hi>John</hi> Lord <hi>Scroop</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>pſal</hi> and <hi>Maſham,</hi> was made Treaſurer in the 10th year of <hi>Hen.</hi> 6.1431.</p>
+            <p n="105">105. <hi>Ralph</hi> Lord <hi>Cromwel,</hi> Son of <hi>Ralph Cromwel</hi> of <hi>Taterſhal,</hi> obtained this Place in <hi>Eaſter</hi> Term, in the 12th of <hi>Hen.</hi> 6.1434.</p>
+            <p n="106">106. Sir <hi>Ralph Butler,</hi> Knight of the Garter, enjoyed this Place the 7th of <hi>July,</hi> in the 22th year of H. 6.1444.</p>
+            <p n="107">107. <hi>Marmaduke</hi> Biſhop of <hi>Carlile,</hi> was made Treaſurer in the 15th year of <hi>Hen.</hi> 6.1488.</p>
+            <p n="108">108. <hi>James Fynes,</hi> Created Baron of <hi>Say</hi> and <hi>Seal,</hi> was made Lord Treaſurer in the 28th of <hi>Hen.</hi> 6. and was afterward beheaded by <hi>Jack Cade</hi> in <hi>Cheapſide.</hi>
+            </p>
+            <p n="109">109. <hi>John</hi> Lord <hi>Beauchamp,</hi> a Perſon of great Worth, he was made Treaſurer in the 29th of <hi>Hen.</hi> 6.</p>
+            <p n="110">110. <hi>John Tiptoft,</hi> Earl of <hi>Worceſter,</hi> was made Lord Treaſurer in the 31th year of <hi>Hen.</hi> 6.</p>
+            <p n="111">111. <hi>James Butler,</hi> the Son of <hi>James</hi> Earl of <hi>Ormond,</hi> enjoyed the Place of Treaſurer in the 33th of <hi>Hen.</hi> 6.</p>
+            <p n="112">112. <hi>Henry</hi> Vicount <hi>Bourchier,</hi> the Son of <hi>William Bourchier</hi> Earl of <hi>Ewe</hi> in <hi>Normandy</hi> was made Treaſurer in the 33th of <hi>Hen.</hi> 6.</p>
+            <p n="113">113. <hi>John Talbot</hi> Earl of <hi>Shrewsbury,</hi> was next made Treaſurer in the 35th year of <hi>Hen.</hi> 6.</p>
+            <p n="114">114. <hi>James Butler,</hi> the Son of the Earl of <hi>Ormond,</hi> was the ſecond time made Treaſurer in the 37 of <hi>Hen.</hi> 6. and was after beheaded at <hi>Newcaſtle,</hi> in the firſt of <hi>Edward</hi> the 4th.</p>
+            <p n="115">115. <hi>Henry Bourchier</hi> was the ſecond time made Lord Treaſurer in the 39th of <hi>Hen.</hi> 6. who, upon the Kings Depoſition, loſt his Life.</p>
+            <p n="116">116. <hi>John Tiptoft,</hi> Earl of <hi>Worceſter,</hi> was the ſecond time made Lord Treaſurer, in the ſecond of <hi>Edw.</hi> 4.</p>
+            <p n="117">117. <hi>Edmund</hi> Lord <hi>Gray</hi> of <hi>Ruthin,</hi> the Son of the Lord <hi>Gray</hi> of <hi>Ruthin,</hi> was made Treaſurer in the fourth of <hi>Edward</hi> the 4th. 1464.</p>
+            <p n="118">118. Sir <hi>Walter Blunt</hi> was choſe Treaſurer in the 5th year of <hi>Edward</hi> the 4th.</p>
+            <p n="119">119. Sir <hi>Richard Woodvile,</hi> firſt Chamberlain, then Conſtable of <hi>England,</hi> afterward Baron, and then Lord Treaſurer, in the 6th of <hi>Edw.</hi> the 4th.</p>
+            <p n="120">120. <hi>John Longſtrother,</hi> Prior of St. <hi>Johns</hi> of <hi>Jeruſalem</hi> in <hi>England,</hi> was made Treaſurer in the 9th of <hi>Edward</hi> the 4th. but was ſoon removed.</p>
+            <p n="121">121. <hi>William Gray</hi> Biſhop of <hi>Ely,</hi> was alſo made Treaſurer in the ninth of <hi>Edward</hi> the 4th 1469.</p>
+            <p n="122">122. <hi>Henry Bourchier</hi> Earl of <hi>Eſſex</hi> did the third time poſſeſs the Place of Treaſurer in the 11th of <hi>Ed.</hi> the 4.</p>
+            <p n="123">123. Sir <hi>Richard Wood,</hi> made Lord Treaſurer in the ſecond of <hi>Richard</hi> the third.</p>
+            <p n="124">124. Sir <hi>Reignold Brey,</hi> the Son of <hi>Richard Brey</hi> Doctor of Phyſick, was made Treaſurer by <hi>Henry</hi> the ſe<g ref="char:EOLhyphen"/>venth, in the firſt year of his Reign.</p>
+            <p n="125">125. Sir <hi>John Dinham</hi> did next enjoy the Place of Treaſurer in the ſecond of <hi>Hen.</hi> 7.1486.</p>
+            <p n="126">126. <hi>Thomas Howard</hi> Son of <hi>John</hi> Lord <hi>Howard,</hi> he was made Treaſurer in the 16th year of <hi>Henry</hi> the 7th. <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was created Duke of <hi>Norfolk,</hi> and continued in his Place till the 15th year of <hi>Henry</hi> the eighth, which is in all <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> years, ſure if he had been but ingenious he might have got a vaſt Eſtate in that time, (you all know one <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>t would, though he had begger'd 3 Kingdoms by it)—<hi>ſed—Credo eum ingenioſiſſimum &amp; honeſtiſſimum eſſe.</hi>
+            </p>
+            <p n="127">
+               <pb n="4" facs="tcp:57970:3" rendition="simple:additions"/> 127. <hi>Thomas Howard</hi> Son to the ſaid Duke, being made Earl of <hi>Surrey,</hi> enjoyed the Place of Lord Treaſurer in the 15th year of <hi>Henry</hi> 8. and held it while the king lived, which was till the 38th year of his Reign.</p>
+            <p n="128">128. <hi>Edward Seymour</hi> Earl of <hi>Hartford,</hi> and afterward Duke of <hi>Somerſet,</hi> was made Treaſurer in the firſt of <hi>Edward</hi> the ſixth 1546. and was after that beheaded:</p>
+            <p n="129">129. Sir <hi>William Paulet,</hi> after Marqueſs of <hi>Wincheſter,</hi> was made Treaſurer in the 5th of <hi>Edward</hi> the 6th, and held that Place to the 15th year of <hi>Elizabeth,</hi> in all 23 years and more, he lived to 97 years of Age, which was without Doubt a great Bleſſing to man of his Employment.</p>
+            <p n="130">130. Sir <hi>William Cecil</hi> created Lord <hi>Burley,</hi> was made Lord Treaſurer the 13 of <hi>July</hi> 1572 in the 15 of <hi>Eliz.</hi>
+            </p>
+            <p n="131">131. <hi>Thomas Sackvile,</hi> Baron <hi>Buckhueſt,</hi> was made Lord Treaſurer the 15th of <hi>May</hi> in the 41 of <hi>Elizabeth:</hi> he was after created Earl of <hi>Dorſet</hi> by King <hi>James.</hi>
+            </p>
+            <p n="132">132. Sir <hi>Robert Cecil</hi> ſecond Son to <hi>William</hi> Lord <hi>Burley,</hi> was by King <hi>James</hi> created Baron of <hi>Eſſendon,</hi> 1603 then Vicount <hi>Cranborne</hi> 1604. after that Earl of <hi>Salisbury,</hi> and laſt of all Lord Treaſurer, and held the Place till his Death.</p>
+            <p n="133">133. <hi>Thomas</hi> Lord <hi>Howard</hi> of <hi>Walden</hi> (ſecond Son to the Duke of <hi>Norfolk</hi>) was created Earl of <hi>Suffolk,</hi> and after Lord Treaſurer in the 12 year of King <hi>James.</hi>
+            </p>
+            <p n="134">134. Sir <hi>Henry Mountacute</hi> made Treaſurer in the 18 of King <hi>James</hi> on the 19th of <hi>December,</hi> and was after created Earl of <hi>Mancheſter,</hi> by King <hi>Charles</hi> the firſt.</p>
+            <p n="135">135. <hi>Lionel</hi> Lord <hi>Cranfield</hi> of <hi>Cranfield</hi> in the County of <hi>Bedford</hi> was made Lord Treaſurer the 19th of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> 1621. and created Earl of <hi>Middleſex</hi> 1622.</p>
+            <p n="136">136. Sir <hi>James Ley</hi> Knight and Baronet, was made Lord Treaſurer the 22 of <hi>December,</hi> in the 22 year of King <hi>James,</hi> and ſoon after created Baron <hi>Ley,</hi> of <hi>Ley</hi> in <hi>Devonſhire,</hi> and after the Coronation of King <hi>Charles,</hi> Earl of <hi>Marleborow.</hi>
+            </p>
+            <p n="137">137. <hi>Richard</hi> Lord <hi>Weſton,</hi> upon the Remove of the ſaid Earl, was made Treaſurer the 15th of <hi>July</hi> in the 4th year of <hi>Charles</hi> the firſt 1627, and after Earl of <hi>Portland.</hi>
+            </p>
+            <p n="138">138. Upon the Death of the ſaid Earl of <hi>Portland,</hi> the King appointed Commiſſioners of the Treaſury: <hi>vizs William</hi> Arch-Biſhop of <hi>Canterbury, Henry</hi> Earl of <hi>Mancheſter,</hi> Lord Privy Seal: <hi>Francis</hi> Lord <hi>Cottington</hi> Chan<g ref="char:EOLhyphen"/>cellor of the Exchequer, Sir <hi>John Cook</hi> and Sir <hi>Francis Windebank</hi> Principal Secretaries of State.</p>
+            <p n="139">139. <hi>William Juxon</hi> firſt Biſhop of <hi>Hereford,</hi> then tranſlated to <hi>London,</hi> afterward Dean of the Chappel, and one of the Privy Councel, and laſt of all Treaſurer, <hi>March</hi> the 9th 1635.</p>
+            <p n="140">140. <hi>Francis</hi> Lord <hi>Cottington,</hi> was made Lord Treaſurer the third of <hi>October</hi> 1643, after whom there were no more Lord Treaſurers till the Honourable Earl of <hi>Southampton</hi> injoyed the Place 1660.</p>
+            <p n="141">141. <hi>Thomas</hi> Earl of <hi>Southampton</hi> that Emblem of Honeſty and Engliſh Generoſity, of whom I may ſay, as <hi>Ovid</hi> of <hi>Caeſar.</hi>
+            </p>
+            <q>
+               <l>O Deeus, O Patriae per te Florentis Imago!</l>
+               <l>O Vir non ipſo quem regis Orbe minor!</l>
+            </q>
+            <p>He was made Lord Treaſurer the 8th of <hi>September</hi> 1660, and held that Place till his Death, which indeed could not be enough Lamented; Alas good man! he got no Pounds, much leſs Millions by this Place, Honour and Honeſly united, may in political Philoſophy undoubtedly paſs for a Comet, and indeed this worthy Engliſh He<g ref="char:EOLhyphen"/>roe was no leſs.</p>
+            <p n="142">142. This Honourable Lord being dead, the King appointed five Commiſſioners for the Treaſury, <hi>viz. Anto<g ref="char:EOLhyphen"/>ny</hi> Earl of <hi>Shaftsbury</hi> (that Champion of <hi>England</hi>'s Liberty) <hi>George</hi> Duke of <hi>Albemarle,</hi> the Lord <hi>Clifford,</hi> Sir <hi>John Duncom,</hi> and Sir <hi>William Coventry,</hi> theſe continued Part of 1667, 1668, and in 1669. Sir <hi>William Co<g ref="char:EOLhyphen"/>ventry</hi> was turned out, all the reſt remaining till 1672 (<hi>Monk</hi> excepted, for he died)</p>
+            <p n="143">143. The Lord <hi>Clifford</hi> was appointed by the King, Lord Treaſurer of <hi>England,</hi> 1672.</p>
+            <p n="144">144. In the Year 1673. Sir <hi>Thomas Osborn</hi> was prefer'd by the Duke of <hi>Buckingham</hi> and ſome others, to his Majeſty, as a Perſon deſerving the Honour and Truſt of the Kingdoms Treaſury, and in order thereunto he was ſworn about <hi>June, eodem Anno.</hi> This Honourable Gentleman was born in <hi>Yorkſhire</hi> in the year 1631/2 <hi>February</hi> the 20th, being Munday about four a Clock in the Morning, his Father was Preſident of a Councill in the <hi>North,</hi> his Grandfather wrs Knighted in <hi>Ireland</hi> for Merit, he is the fourth Knight of his Family, and the ſecond Knight and Baronet, the firſt Earl and the firſt Lord Treaſurer, and deſcended from <hi>Osborn</hi> a Quondam Lord Major of <hi>London,</hi> who being but mean in his Minority was advanced by the Marriage of his Maſters Daughter, for ſome ſecret Service by him performed, which to mention in this Place would not be ſo grateful as true—but <hi>(pax mortuis)</hi> let us conſider ſome of this worthy and Eminent Perſons Vertues.</p>
+            <list>
+               <item>1. He hath been a great Royaliſt, which Qualification made him the fitter for this great Imploy.</item>
+               <item>2. He hath been an extraordinary good Husband, ſo that he hath from a ſmall Eſtate advanced himſelf to a conſiderable Revenue.</item>
+               <item>3. He was a great Preferer of his Kindred, eſpecially to the Parliament houſe, <hi>Memen.</hi> the Caſe of Mr. <hi>W. T.</hi> in the laſt Parliament, and at ſeveral Elections in this.</item>
+               <item>4. He was ever a very grateful Perſon, which was evidently ſeen in his Carriage to the Illuſtrious <hi>George</hi> Duke of <hi>Buckingham</hi> in the Beginning of this preſent Year 1679. whoſe Gold was freely ſerviceable to him, when his Neceſſity obliged him to want.</item>
+               <item>5. He is a very good Accomptant, which I ſuppoſe the whole Kingdom knows to their Coſt.</item>
+               <item>6. and laſtly. To him and ſome others we owe our Thanks for our laſt eight Moneths Diſtraction and De<g ref="char:EOLhyphen"/>ſtruction not forgetting innocent <hi>Godfrey</hi>'s Death.</item>
+            </list>
+            <epigraph>
+               <q>Odimus Accipitrem quia ſemper vivit in Armis.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
